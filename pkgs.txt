@@ -1,0 +1,5 @@
+nano
+git
+lynx
+curl
+
